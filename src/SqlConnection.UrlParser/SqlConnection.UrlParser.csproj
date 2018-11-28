@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net40;net45;net46;netstandard1.0;netstandard2.0</TargetFrameworks>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Authors>Kevin Aung&lt;kevin.aung@yahoo.com&gt;</Authors>
+    <Company />
+    <Description>Parse SQL connection string url to known SQL connection string.</Description>
+    <Copyright>2018</Copyright>
+    <PackageProjectUrl>https://github.com/kkaung/SqlConnection.UrlParser</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/kkaung/SqlConnection.UrlParser</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>sql connection url parse parser</PackageTags>
+  </PropertyGroup>
+
+</Project>
